@@ -1,5 +1,5 @@
 #include <Servo.h>
-///signals are sent like "120a090" where, forward_backward=120 & left_right=90
+///signals are sent like "120a90" where, forward_backward=120 & left_right=90
 
 //Using mega 2560 and sabertooth dip switch 010111 *make sure its set to that specific order*
 int servo1=10;//pin 10 for servo 1
